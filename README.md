@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva More</h1>
-<h3 align="center">A passionate developer and data enthusiast, working on NLP integration for CRM projects.</h3>
+<h3 align="center">A passionate Data science & AI student a data enthusiast, working on NLP integration for CRM projects.</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 - 🔭 Currently working on **NLP integration for CRM systems**
 - 🌱 Learning advanced **Machine Learning & Cloud Integrations**
 - 💬 Ask me about **Python, AI/ML, NLP, and Backend development**
-- 📫 How to reach me: **atharvamore.mail@gmail.com**
+- 📫 How to reach me: **moreatharva2603@gmail.com**
 
 ---
 
